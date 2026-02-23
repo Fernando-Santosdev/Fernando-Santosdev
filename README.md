@@ -1,11 +1,11 @@
 <!-- cabeçalho -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17F77D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Joaquim+Antonio;Seja+bem+vindo+ao+meu+perfil+do+github;Prazer+em+ter+você+aqui!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fernando+Santos;Seja+bem+vindo+ao+meu+perfil+do+github;Prazer+em+ter+você+aqui!+:%29)](https://git.io/typing-svg)
 
 <!--breve descrição-->
 <p align="center">
-Engenheiro de Software
+Ciencias da computação | Desenvolvedor de Software
 </p>
 <p align="justify">
 Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento de soluções que resolvem problemas reais e geram valor para clientes. Interesse em transformar necessidades do mundo real em sistemas eficientes, escaláveis e bem estruturados, aplicando boas práticas de engenharia e programação.
@@ -13,7 +13,7 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
 
 ## 🖥 Tecnologias
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp,spring,react,bootstrap,git,vscode,clion,pycharm,figma,eclipse,idea,windows,linux,maven,mysql,postman,jquery,github">
+<img src="https://skillicons.dev/icons?i=java,css,html,js,py,spring,react,bootstrap,git,vscode,clion,pycharm,figma,eclipse,idea,windows,linux,maven,mysql,postman,github">
 </p>
 <!--### Frameworks and Libraries:-->
 <!-- linguagens e frameworks -->
@@ -25,14 +25,11 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
 <div align="center">
 <table>
 <tr>
-<td align="center" colspan="2">⌚<a href="https://wakatime.com/@joaquim_antonio">WakaTime</a></td>
-</tr>
-<tr>
 <td>
-<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaquim-antonio&theme=dark"/>
+<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernando-Santosdev&theme=dark"/>
 </td>
 <td>
-<img alt="GitHub Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaquim-antonio&theme=github_dark"/>
+<img alt="GitHub Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fernando-Santosdev&theme=github_dark"/>
 </td>
 </tr>
 <tr>
