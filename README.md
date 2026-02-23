@@ -8,7 +8,7 @@
 Ciencias da computação | Desenvolvedor de Software
 </p>
 <p align="justify">
-Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento de soluções que resolvem problemas reais e geram valor para clientes. Interesse em transformar necessidades do mundo real em sistemas eficientes, escaláveis e bem estruturados, aplicando boas práticas de engenharia e programação.
+Graduando em Ciencias da computação na UniBH, Profissional interessado em criar tecnologia com propósito, atuando desde a compreensão do problema até a entrega de sistemas robustos e sustentáveis. Busca desenvolver soluções bem arquitetadas, com desempenho, organização e capacidade de crescimento, sempre prezando pela qualidade do código e pela clareza técnica.
 </p>
 
 ## 🖥 Tecnologias
