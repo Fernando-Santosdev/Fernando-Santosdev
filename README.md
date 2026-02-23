@@ -64,17 +64,17 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
  <td align="center" colspan="11"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/joaquim-antonio" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Fernando-Santosdev" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:joaquim.antonio.camargos@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:carfale225@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5533998640504" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5533997037251" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/aquelejoquii/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/nando_lxl/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="www.linkedin.com/in/joaquim-antonio-dev" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="www.linkedin.com/in/fernando-santosdev" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/531515290312507393" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -83,62 +83,7 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
 </table>
 </div>
 
-<!--livros -->
-## 📖 Leituras recentes
 
-<div align="center">
-<table>
-<tr>
-<td align="center" colspan="5"></td>
-</tr>
-<tr>
-<td>
-<img width="150" height="200" src="img/engenharia-de-software-pressman.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="img/bpmcbok.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="img/db-silberschatz.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="img/java-deitel.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="img/calculo-JamesStewart.webp"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="5"></td>
-</tr>
-</table>
-
-<table>
-<tr>
- <td align="center" colspan="5"></td>
-</tr>
-<tr>
-<td>
-<img width="150" height="200" src="img/learningJava.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="img/learningSQL.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="img/padroes-de-projeto-gamma.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="img/sistemas-digitais-capuano.jpg"/>
-</td>
-<td>
-<img width="150" height="200" src="img/db-elmasri.jpg"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="5"></td>
-</tr>
-</table>
-</div>
 
 <!-- SPOTIFY 
 <div>
