@@ -37,7 +37,7 @@ Graduando em Ciencias da computação na UniBH, Profissional interessado em cria
 </tr>
  <tr>
 <td align="center" colspan="2">
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaquim-antonio&color=blueviolet"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Fernando-Santosdev&color=blueviolet"/>
 </td>
  </tr>
 </table>
